@@ -5,14 +5,14 @@ eliza.py is a Python project that emulates the early natural language processing
 ## Installation
 To interact with Eliza, run eliza.py with no parameters in terminal or via cmd-line with Python 3. Instructions will be presented when you execute the file.
 
-'''bash
+```bash
 python3 eliza.py
-'''
+```
 
 ## Example
 Eliza works best if you stick with brief string responses.
 
-'''
+```
 Eliza: What is your name?
 User enters: Noah
 Eliza: Hello Noah, how are you today?
@@ -27,5 +27,5 @@ Eliza: Do you think this infers anything about you?
 User enters: That I'm forgetful
 Eliza: Why might this be?
 User enters: bye
-'''
+```
 
