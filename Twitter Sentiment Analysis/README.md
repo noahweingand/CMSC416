@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 ## Description
-A Python program that extracts the sentiment of a tweet. This application uses 2-way polarity to determine if a tweet is either positive or negative. 
+A Python program that extracts the sentiment of a tweet. This application determines if a tweet is either positive or negative. 
 The application uses training data that includes tweets and their sentiment. We use this training data to build unigrams to see which words are more associated
 with a particular sentiment. These discriminative words become features in a decision list that is then used to determine the sentiment of the tweets in the test data. The training and testing data are given in this repository. The accuracy of
 this application is around 70 percent.
